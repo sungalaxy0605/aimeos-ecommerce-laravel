@@ -106,15 +106,11 @@ If you want to set up a new application or test Aimeos, we recommend the Aimeos
 shop distribution. It contains everything for a quick start and you will get a
 fully working online shop in less than 5 minutes:
 
-:star: [Aimeos shop distribution](https://github.com/aimeos/aimeos)
-
 ### Headless distribution
 
 If you want to build a single page application (SPA) respectively a progressive web
 application (PWA) yourself and don't need the Aimeos HTML frontend, then the Aimeos
 headless distribution is the right choice:
-
-:star:  [Aimeos headless distribution](https://github.com/aimeos/aimeos-headless)
 
 ## Table of content
 
@@ -414,12 +410,3 @@ these lines at the bottom:
 
 The Aimeos Laravel package is licensed under the terms of the MIT license and
 is available for free.
-
-## Links
-
-* [Web site](https://aimeos.org/Laravel)
-* [Documentation](https://aimeos.org/docs/Laravel)
-* [Forum](https://aimeos.org/help/laravel-package-f18/)
-* [Issue tracker](https://github.com/aimeos/aimeos-laravel/issues)
-* [Composer packages](https://packagist.org/packages/aimeos/aimeos-laravel)
-* [Source code](https://github.com/aimeos/aimeos-laravel)
